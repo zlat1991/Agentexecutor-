@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Agent Executor</string>
+    <string name="accessibility_description">Visible AI agent executor. Performs user-authorized UI actions.</string>
+</resources>
